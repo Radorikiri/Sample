@@ -2,3 +2,4 @@ testing
 hello hello
 
 cout << "Nice one" << endl;
+System.out.println ("Lol");
